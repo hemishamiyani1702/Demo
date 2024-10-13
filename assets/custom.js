@@ -166,3 +166,4 @@ console.log("numericId",numericId)
 
   fetchProductVariants(productHandle);
 });
+console.log("helllooo");
