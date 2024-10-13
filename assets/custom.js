@@ -167,3 +167,4 @@ console.log("numericId",numericId)
   fetchProductVariants(productHandle);
 });
 console.log("helllooo");
+console.log("this is to check new branch")
